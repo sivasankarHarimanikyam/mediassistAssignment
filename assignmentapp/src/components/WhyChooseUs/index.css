@@ -1,0 +1,41 @@
+.card-container{
+    height: 40%;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    background-color: #c4c4eb;
+    border-radius: 10px;
+    margin: 20px;
+}
+.horizontal-line{
+    color: #000088;
+    width: 20px;
+}
+.card-section{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+
+}
+.heading1{
+    text-align: center;
+}
+.heavy-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+
+.sub-label{
+    height: 90px;
+    width: 200px;
+    box-shadow: 1px 3px 2px 5px;
+    background-color: beige;
+
+}
+.sub-labelsection{
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    padding: 0px;
+}

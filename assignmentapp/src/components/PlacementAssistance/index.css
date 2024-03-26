@@ -1,0 +1,10 @@
+.place-container{
+    background-color: #f0aae6;
+    width: 100%;
+}
+.place-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}

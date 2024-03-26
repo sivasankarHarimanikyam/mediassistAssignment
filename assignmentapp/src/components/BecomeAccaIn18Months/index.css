@@ -1,0 +1,52 @@
+.full-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #c4c4eb;
+}
+
+.sub-container{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
+
+.paraLabel{
+    width: 600px;
+}
+
+.logo-assign{
+    display: flex;
+    margin-right: 10px;
+}
+.btn-1{
+    background-color: #000088;
+    height: 35px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-top: 15px;
+    cursor: pointer;
+    outline: none;
+    width:136px
+}
+.btn-2{
+    background-color: #a1061b;
+    height: 35px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-top: 15px;
+    cursor: pointer;
+    outline: none;
+    width:136px;
+    margin-left: 20px;
+}

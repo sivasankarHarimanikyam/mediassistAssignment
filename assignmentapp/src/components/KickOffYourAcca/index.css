@@ -1,0 +1,27 @@
+.end-container{
+    background-color: #c4c4eb;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.end-sub-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-login{
+    background-color: #a1061b;
+    height: 35px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-top: 15px;
+    cursor: pointer;
+    outline: none;
+    width:136px
+}
